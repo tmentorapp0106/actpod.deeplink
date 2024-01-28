@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "MCD6PB9G8K.com.sharevoice.inn",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
